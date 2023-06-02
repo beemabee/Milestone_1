@@ -1,5 +1,5 @@
 # Milestone_1
-Complete Project-1 Hactiv8 in Data Science Filed
+Complete Project-1 Hactiv8 in Data Science Field
 
 Link Dashboard: https://lookerstudio.google.com/reporting/a3e15483-ce98-43f2-a6f5-deb9709e1308
 
